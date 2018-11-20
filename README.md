@@ -1,2 +1,2 @@
 # For-fun
-Code for some algorithms
+Code for some algorithms or just writing.
